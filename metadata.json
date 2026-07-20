@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A high-fidelity weather application with Open-Meteo forecasts, ambient glassmorphism visuals, and dynamic planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
